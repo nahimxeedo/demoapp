@@ -22,6 +22,9 @@ class ViewController: UIViewController {
     func multipllication() {
         
     }
+    func divider() {
+        
+    }
 
 }
 
