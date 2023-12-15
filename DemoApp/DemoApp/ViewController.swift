@@ -25,6 +25,9 @@ class ViewController: UIViewController {
     func divider() {
         
     }
+    func addNew() {
+        
+    }
 
 }
 
