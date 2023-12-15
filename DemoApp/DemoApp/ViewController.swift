@@ -19,6 +19,9 @@ class ViewController: UIViewController {
     func substract() {
         
     }
+    func divider() {
+        
+    }
 
 }
 
