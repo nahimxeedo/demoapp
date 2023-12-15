@@ -16,6 +16,9 @@ class ViewController: UIViewController {
     func add() {
         
     }
+    func substract() {
+        
+    }
 
 }
 
