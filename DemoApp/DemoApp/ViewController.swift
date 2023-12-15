@@ -28,6 +28,9 @@ class ViewController: UIViewController {
     func addNew() {
         
     }
+    func multiplicationNew() {
+        
+    }
 
 }
 
