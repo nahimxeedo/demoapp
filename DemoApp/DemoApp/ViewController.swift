@@ -31,6 +31,9 @@ class ViewController: UIViewController {
     func multiplicationNew() {
         
     }
+    func substractNew() {
+        
+    }
 
 }
 
