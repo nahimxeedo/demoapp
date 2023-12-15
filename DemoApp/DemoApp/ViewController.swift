@@ -34,6 +34,12 @@ class ViewController: UIViewController {
     func substractNew() {
         
     }
+    func dividerNew() {
+        
+    }
+    func add1() {
+        
+    }
 
 }
 
