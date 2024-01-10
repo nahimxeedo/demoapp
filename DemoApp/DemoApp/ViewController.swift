@@ -43,6 +43,9 @@ class ViewController: UIViewController {
     func add1() {
         
     }
+    func add2() {
+        
+    }
 
 }
 
