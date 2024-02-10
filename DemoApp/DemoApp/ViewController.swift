@@ -55,6 +55,9 @@ class ViewController: UIViewController {
     func add5() {
         
     }
+    func add6() {
+        
+    }
 
 }
 
