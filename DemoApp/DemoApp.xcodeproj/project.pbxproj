@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		187B837B2B77437A00CCB034 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187B837A2B77437A00CCB034 /* SecondViewController.swift */; };
+		187B83772B77427E00CCB034 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 187B83762B77427E00CCB034 /* FirstViewController.swift */; };
 		18AF6D352B2C5D5B00CEB48F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AF6D342B2C5D5B00CEB48F /* AppDelegate.swift */; };
 		18AF6D372B2C5D5B00CEB48F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AF6D362B2C5D5B00CEB48F /* SceneDelegate.swift */; };
 		18AF6D392B2C5D5B00CEB48F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18AF6D382B2C5D5B00CEB48F /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		187B837A2B77437A00CCB034 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		187B83762B77427E00CCB034 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
 		18AF6D312B2C5D5B00CEB48F /* DemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18AF6D342B2C5D5B00CEB48F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		18AF6D362B2C5D5B00CEB48F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -62,6 +64,7 @@
 				18AF6D362B2C5D5B00CEB48F /* SceneDelegate.swift */,
 				18AF6D382B2C5D5B00CEB48F /* ViewController.swift */,
 				187B837A2B77437A00CCB034 /* SecondViewController.swift */,
+				187B83762B77427E00CCB034 /* FirstViewController.swift */,
 				18AF6D3A2B2C5D5B00CEB48F /* Main.storyboard */,
 				18AF6D3D2B2C5D5D00CEB48F /* Assets.xcassets */,
 				18AF6D3F2B2C5D5D00CEB48F /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				18AF6D392B2C5D5B00CEB48F /* ViewController.swift in Sources */,
 				18AF6D352B2C5D5B00CEB48F /* AppDelegate.swift in Sources */,
 				18AF6D372B2C5D5B00CEB48F /* SceneDelegate.swift in Sources */,
+				187B83772B77427E00CCB034 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
